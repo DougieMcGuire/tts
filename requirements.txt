@@ -1,0 +1,3 @@
+Flask
+Ffmpeg-Python
+Edge-Tts
