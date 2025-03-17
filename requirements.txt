@@ -1,0 +1,4 @@
+Flask
+openAI-Whisper
+Ffmpeg-Python
+Edge-Tts
