@@ -1,4 +1,0 @@
-Flask
-Whisper
-Ffmpeg-Python
-Edge-Tts
